@@ -1,0 +1,49 @@
+*{
+    scroll-behavior: smooth
+}
+
+.aboutPic{
+    width: 500px;
+    height: 300px;
+    max-width: 100%;
+    overflow: hidden;
+    img{
+        width: auto;
+        height: 100%;
+    }
+}
+
+.text-primary{
+    color: rgb(0, 0, 120);
+}
+
+.number img{
+    width: 60px;
+    height: auto;
+}
+
+.contactPic{
+    width: 100%;
+    height: auto;
+    max-width: 100%;
+    img{
+        width: 100%;
+        height: auto;
+    }
+}
+
+
+.socialIcon img{
+    height: 30px;
+    width: auto;
+    filter: invert(1);
+}
+
+
+.main-content{
+    img{
+        max-width: 100%;
+        width: 100%;
+        height: auto;
+    }
+}
