@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "ghatfoundation-31872": {
+      "hosting": {
+        "GhatFoundation": [
+          "ghatfoundation-31872"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "ghatfoundation-31872"
+  }
+}
